@@ -55,3 +55,8 @@ https://github.com/foru17/front-end-collect
 >  学习类平台
 
 - 宁皓网 https://ninghao.net/
+
+> 在线代码调试工具
+- jsfiddle https://jsfiddle.net/
+- JS Bin https://jsbin.com/ 
+- CodePen  https://codepen.io
