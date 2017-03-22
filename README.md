@@ -20,7 +20,6 @@
 > 工具类
 
 - 阿里图标库http://iconfont.cn/collections
-- 
 
 
 > 动手类网站
@@ -34,9 +33,9 @@
 
 > 整理的网站
 
-分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
+- 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 https://github.com/foru17/front-end-collect
-前端资源整理    https://zhuanlan.zhihu.com/p/23344447
+-前端资源整理     https://zhuanlan.zhihu.com/p/23344447
 
 > 手册
 
@@ -50,6 +49,12 @@ https://github.com/foru17/front-end-collect
 > 好文推荐
 
 - 知乎专栏 模块之美 https://zhuanlan.zhihu.com/module
+- 前端工程 https://github.com/fouber/blog/issues/10 (有一系列的文章，值得一看)
+
+>  好书推荐
+
+- JavaScript高级程序设计
+- 你不知道的Javascript
 
 
 >  学习类平台
