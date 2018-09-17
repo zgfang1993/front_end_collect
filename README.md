@@ -35,7 +35,10 @@
 
 - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 https://github.com/foru17/front-end-collect
--前端资源整理     https://zhuanlan.zhihu.com/p/23344447
+- 前端资源整理     https://zhuanlan.zhihu.com/p/23344447
+- 每天发现一个好链接 https://admire.so/
+- 创造狮 创造工作者导航 http://chuangzaoshi.com/
+- 大前端导航 http://www.daqianduan.com/nav
 
 > 手册
 
@@ -44,6 +47,7 @@ https://github.com/foru17/front-end-collect
 - MSDN https://msdn.microsoft.com/en-us/library/aa902517.aspx (了解针对IE的东西，比如某个IE版本新增了哪些特性)
 - https://www.w3.org/
 - 犀牛书
+- 前端代码规范 https://guide.aotu.io/docs/
 
 
 > 好文推荐
@@ -60,8 +64,13 @@ https://github.com/foru17/front-end-collect
 >  学习类平台
 
 - 宁皓网 https://ninghao.net/
+- node爱好者 https://nodelover.me/ (部分课程需要VIP才能看，都是和node相关的课程😍)
+- 每天一条js http://www.jstips.co/
 
 > 在线代码调试工具
 - jsfiddle https://jsfiddle.net/
 - JS Bin https://jsbin.com/ 
 - CodePen  https://codepen.io
+
+> 路线
+- 如何成为nodejs全栈工程师 https://github.com/MiYogurt/nodelover-maps
